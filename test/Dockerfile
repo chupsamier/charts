@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#adding comment
+
 FROM quay.io/helmpack/chart-testing:v2.4.0
 
 ENV PATH /google-cloud-sdk/bin:$PATH
